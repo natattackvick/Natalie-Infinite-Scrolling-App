@@ -1,0 +1,14 @@
+.container {
+  align-items: center;
+  box-shadow: 0 4px 4px rgba(161, 161, 161, 0.1);
+  color: #000000;
+  display: inline-flex;
+  font-size: 18px;
+  font-weight: 600;
+  height: 80px;
+  left: 250px;
+  padding-left: 40px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

@@ -1,0 +1,9 @@
+.container {
+  align-items: center;
+  display: inline-flex;
+  font-size: 26px;
+  font-weight: 500;
+  justify-content: center;
+  text-align: center;
+  width: 100vw;
+}
