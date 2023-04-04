@@ -14,19 +14,19 @@ const HomeIcon = () => {
         height="15.12"
         rx="1.32"
         stroke="#EAEAEA"
-        stroke-width="1.2"
+        strokeWidth="1.2"
       />
       <path
         d="M5 10.75L19 10.75"
         stroke="#EAEAEA"
-        stroke-width="1.2"
-        stroke-linecap="round"
+        strokeWidth="1.2"
+        strokeLinecap="round"
       />
       <path
         d="M9.75 11L9.75 19"
         stroke="#EAEAEA"
-        stroke-width="1.2"
-        stroke-linecap="round"
+        strokeWidth="1.2"
+        strokeLinecap="round"
       />
     </svg>
   );

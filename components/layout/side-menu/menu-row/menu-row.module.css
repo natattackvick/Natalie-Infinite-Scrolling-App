@@ -1,0 +1,41 @@
+/* Todo: refactor to remove repeats*/
+
+.inactiveContainer {
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  border-radius: 6px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  padding: 8px 10px;
+  transition: all 0.1s ease;
+  width: 220px;
+}
+
+.inactiveContainer:hover {
+  background-color: rgba(66, 66, 66, 0.3);
+}
+
+.activeContainer {
+  align-items: center;
+  background-color: #424242;
+  border: none;
+  border-radius: 6px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  padding: 8px 10px;
+  width: 220px;
+}
+
+.icon {
+  display: inline-flex;
+  margin-right: 7px;
+}

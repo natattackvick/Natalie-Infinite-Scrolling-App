@@ -13,10 +13,16 @@
   display: inline-flex;
   font-size: 16px;
   font-weight: 500;
+  margin-bottom: 43px;
   padding-left: 10px;
   padding-top: 16px;
 }
 
 .logo {
-  padding-right: 11px;
+  margin-right: 11px;
+}
+
+.menuContainer {
+  display: inline-flex;
+  flex-direction: column;
 }
