@@ -1,0 +1,23 @@
+.greenContainer {
+  background-color: #dcffe6;
+  border-radius: 21px;
+  color: #19b444;
+  font-size: 12px;
+  font-weight: 600;
+  height: 21px;
+  line-height: 15px;
+  margin-left: 10px;
+  padding: 3px 7px;
+}
+
+.blueContainer {
+  background-color: #dfefff;
+  border-radius: 21px;
+  color: #3399ff;
+  font-size: 12px;
+  font-weight: 600;
+  height: 21px;
+  line-height: 15px;
+  margin-left: 10px;
+  padding: 3px 7px;
+}
