@@ -33,6 +33,7 @@ const Filter = ({ filterData, handleIsOpen, handleFilter }) => {
     if (e.target.best.checked) filterSubmit.push("best");
 
     handleFilter(filterSubmit);
+    handleIsOpen();
   };
 
   return (
