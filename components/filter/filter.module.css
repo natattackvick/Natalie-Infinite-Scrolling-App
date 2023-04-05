@@ -61,6 +61,7 @@
 }
 
 .submitWrapper {
-  bottom: 16px;
+  position: relative;
+  top: 10px;
   left: 10px;
 }
