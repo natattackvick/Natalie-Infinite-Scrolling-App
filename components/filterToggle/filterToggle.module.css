@@ -1,0 +1,62 @@
+.container {
+  align-items: center;
+  color: #d7d7d7;
+  display: inline-flex;
+  font-size: 14px;
+  height: 37px;
+  margin-bottom: 25px;
+  position: fixed;
+}
+
+.currentFilters {
+  margin-left: 10px;
+}
+
+.toggleButtonBase {
+  align-items: center;
+  background-color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  margin-right: 10px;
+  min-width: 59px;
+  height: 37px;
+  border: 1px solid #ababab;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 8.5px 20px;
+}
+
+.toggleButtonHighlighted {
+  background-color: #424242;
+  align-items: center;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  margin-right: 10px;
+  min-width: 59px;
+  height: 37px;
+  border: 1px solid #424242;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 8.5px 20px;
+}
+
+.clearButton {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #3399ff;
+  border: none;
+  background-color: #ffffff;
+  margin-left: 10px;
+}
+
+.clearButton:disabled {
+  color: #d7d7d7;
+  cursor: initial;
+}

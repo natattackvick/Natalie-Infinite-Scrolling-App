@@ -1,0 +1,66 @@
+.container {
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 286px;
+  position: fixed;
+  top: 173px;
+  width: 320px;
+  z-index: 1;
+}
+
+.titleBar {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 59px;
+  border-bottom: 1px solid #eaeaea;
+  align-items: center;
+}
+
+.clearButton {
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #3399ff;
+  border: none;
+  background-color: #ffffff;
+  margin-left: 25px;
+}
+
+.clearButton:disabled {
+  color: #d7d7d7;
+  cursor: initial;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #424242;
+}
+
+.closeButton {
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  border: none;
+  background: none;
+  margin-right: 20px;
+}
+
+.filterName {
+  padding: 25px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #686868;
+}
+
+.submitWrapper {
+  bottom: 16px;
+  left: 10px;
+}

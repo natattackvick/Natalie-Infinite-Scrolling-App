@@ -1,0 +1,12 @@
+.container {
+  width: 300px;
+  height: 45px;
+  cursor: pointer;
+  background: #424242;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}

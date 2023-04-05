@@ -13,7 +13,7 @@ const data = [
   },
   {
     name: "Alex Griswold",
-    status: "closest",
+    status: "best",
     email: "alex_griswold7220@ckzyi.auction",
     phone: "(123) 456-7890"
   },
@@ -31,7 +31,7 @@ const data = [
   },
   {
     name: "Christina Be",
-    status: "closest",
+    status: "best",
     email: "christina_be2187@bqkv0.space",
     phone: "(098) 765-4321"
   },
@@ -49,7 +49,7 @@ const data = [
   },
   {
     name: "Natalie Vick",
-    status: "closest",
+    status: "best",
     email: "natalie_vick8199@bcfhs.store",
     phone: "(123) 456-7890"
   },
@@ -67,7 +67,7 @@ const data = [
   },
   {
     name: "Piper Goodman",
-    status: "closest",
+    status: "best",
     email: "piper_goodman2050@urn0m.store",
     phone: "(098) 765-4321"
   },
@@ -85,7 +85,7 @@ const data = [
   },
   {
     name: "Boris Little",
-    status: "closest",
+    status: "best",
     email: "boris_little1383@cke3u.zone",
     phone: "(123) 456-7890"
   },
@@ -103,7 +103,7 @@ const data = [
   },
   {
     name: "Kamila Martin",
-    status: "closest",
+    status: "best",
     email: "kamila_martin8685@d9un8.store",
     phone: "(098) 765-4321"
   },
@@ -121,7 +121,7 @@ const data = [
   },
   {
     name: "Cara Bayliss",
-    status: "closest",
+    status: "best",
     email: "cara_bayliss6924@karnv.digital",
     phone: "(123) 456-7890"
   },
@@ -139,7 +139,7 @@ const data = [
   },
   {
     name: "Anabelle Armstrong",
-    status: "closest",
+    status: "best",
     email: "anabelle_armstrong9857@1wa8o.digital",
     phone: "(098) 765-4321"
   },
@@ -157,7 +157,7 @@ const data = [
   },
   {
     name: "Gabriel Clarke",
-    status: "closest",
+    status: "best",
     email: "gabriel_clarke1705@1kmd3.audio",
     phone: "(123) 456-7890"
   },
@@ -175,7 +175,7 @@ const data = [
   },
   {
     name: "Josh Villiger",
-    status: "closest",
+    status: "best",
     email: "josh_villiger6594@voylg.software",
     phone: "(098) 765-4321"
   },
@@ -193,7 +193,7 @@ const data = [
   },
   {
     name: "Rocco Clifton",
-    status: "closest",
+    status: "best",
     email: "rocco_clifton5051@iscmr.website",
     phone: "(123) 456-7890"
   },
@@ -211,7 +211,7 @@ const data = [
   },
   {
     name: "Elijah Add",
-    status: "closest",
+    status: "best",
     email: "elijah_addis16@ohqqh.software",
     phone: "(098) 765-4321"
   },
@@ -229,7 +229,7 @@ const data = [
   },
   {
     name: "Nicole Bailey",
-    status: "closest",
+    status: "best",
     email: "nicole_bailey2542@qu9ml.video",
     phone: "(123) 456-7890"
   },
@@ -247,7 +247,7 @@ const data = [
   },
   {
     name: "Bernadette Osman",
-    status: "closest",
+    status: "best",
     email: "bernadette_osman9095@crzq7.us",
     phone: "(098) 765-4321"
   },
@@ -265,7 +265,7 @@ const data = [
   },
   {
     name: "Jenna Campbell",
-    status: "closest",
+    status: "best",
     email: "jenna_campbell4834@1wa8o.digital",
     phone: "(123) 456-7890"
   },
@@ -283,7 +283,7 @@ const data = [
   },
   {
     name: "Hayden Fisher",
-    status: "closest",
+    status: "best",
     email: "hayden_fisher4797@nmz0p.website",
     phone: "(098) 765-4321"
   },
@@ -301,7 +301,7 @@ const data = [
   },
   {
     name: "Manuel Rothwell",
-    status: "closest",
+    status: "best",
     email: "manuel_rothwell7120@jh02o.website",
     phone: "(123) 456-7890"
   },
@@ -319,7 +319,7 @@ const data = [
   },
   {
     name: "Skylar Farrant",
-    status: "closest",
+    status: "best",
     email: "skylar_farrant5316@iscmr.solutions",
     phone: "(098) 765-4321"
   },
@@ -337,7 +337,7 @@ const data = [
   },
   {
     name: "Chris Chester",
-    status: "closest",
+    status: "best",
     email: "chris_chester4863@kyb7t.edu",
     phone: "(123) 456-7890"
   },
@@ -355,7 +355,7 @@ const data = [
   },
   {
     name: "Percy Pearson",
-    status: "closest",
+    status: "best",
     email: "percy_pearson8568@kyb7t.us",
     phone: "(098) 765-4321"
   },
@@ -373,7 +373,7 @@ const data = [
   },
   {
     name: "Clint Woods",
-    status: "closest",
+    status: "best",
     email: "clint_woods7074@cdpfn.app",
     phone: "(123) 456-7890"
   },
@@ -391,7 +391,7 @@ const data = [
   },
   {
     name: "Peter Uttley",
-    status: "closest",
+    status: "best",
     email: "peter_uttley9040@voylg.software",
     phone: "(098) 765-4321"
   },
@@ -409,7 +409,7 @@ const data = [
   },
   {
     name: "Grace Collins",
-    status: "closest",
+    status: "best",
     email: "grace_collins4189@ptr6k.host",
     phone: "(123) 456-7890"
   },
@@ -427,7 +427,7 @@ const data = [
   },
   {
     name: "Elijah Gilmore",
-    status: "closest",
+    status: "best",
     email: "elijah_gilmore6049@lhp4j.com",
     phone: "(098) 765-4321"
   },
@@ -445,7 +445,7 @@ const data = [
   },
   {
     name: "Chad Coleman",
-    status: "closest",
+    status: "best",
     email: "chad_coleman1650@nb44i.media",
     phone: "(123) 456-7890"
   },
@@ -463,7 +463,7 @@ const data = [
   },
   {
     name: "Cecilia Clark",
-    status: "closest",
+    status: "best",
     email: "cecilia_clark2160@xtwt3.shop",
     phone: "(098) 765-4321"
   },
@@ -481,7 +481,7 @@ const data = [
   },
   {
     name: "Mason Collins",
-    status: "closest",
+    status: "best",
     email: "mason_collins8468@yfxpw.club",
     phone: "(123) 456-7890"
   },
@@ -499,7 +499,7 @@ const data = [
   },
   {
     name: "Mackenzie Stone",
-    status: "closest",
+    status: "best",
     email: "mackenzie_stone 7282@xtwt3.host",
     phone: "(098) 765-4321"
   },
@@ -517,7 +517,7 @@ const data = [
   },
   {
     name: "Bethany Bryson",
-    status: "closest",
+    status: "best",
     email: "bethany_bryson7384@qu9ml.mobi",
     phone: "(123) 456-7890"
   },
@@ -535,7 +535,7 @@ const data = [
   },
   {
     name: "Fred Lloyd",
-    status: "closest",
+    status: "best",
     email: "fred_lloyd6928@c2nyu.info",
     phone: "(098) 765-4321"
   },
@@ -553,7 +553,7 @@ const data = [
   },
   {
     name: "Eduardo Morris",
-    status: "closest",
+    status: "best",
     email: "eduardo_morris7297@avn7d.store",
     phone: "(123) 456-7890"
   },
@@ -571,7 +571,7 @@ const data = [
   },
   {
     name: "Danny Crawley",
-    status: "closest",
+    status: "best",
     email: "danny_crawley9396@jh02o.solutions",
     phone: "(098) 765-4321"
   },
@@ -589,7 +589,7 @@ const data = [
   },
   {
     name: "Naomi Summers",
-    status: "closest",
+    status: "best",
     email: "naomi_summers2282@3wbkp.page",
     phone: "(123) 456-7890"
   },
@@ -607,7 +607,7 @@ const data = [
   },
   {
     name: "Nick Lloyd",
-    status: "closest",
+    status: "best",
     email: "nick_lloyd7256@ckzyi.video",
     phone: "(098) 765-4321"
   },
@@ -625,7 +625,7 @@ const data = [
   },
   {
     name: "Keira Gilmore",
-    status: "closest",
+    status: "best",
     email: "keira_gilmore6647@jh02o.auction",
     phone: "(123) 456-7890"
   },
@@ -643,7 +643,7 @@ const data = [
   },
   {
     name: "Cadence Powell",
-    status: "closest",
+    status: "best",
     email: "cadence_powell1641@zynuu.website",
     phone: "(098) 765-4321"
   },
@@ -661,7 +661,7 @@ const data = [
   },
   {
     name: "George Baker",
-    status: "closest",
+    status: "best",
     email: "george_baker3341@xtwt3.meet",
     phone: "(123) 456-7890"
   },
@@ -679,7 +679,7 @@ const data = [
   },
   {
     name: "Bethany Warden",
-    status: "closest",
+    status: "best",
     email: "bethany_warden7538@xtwt3.info",
     phone: "(098) 765-4321"
   },
@@ -697,7 +697,7 @@ const data = [
   },
   {
     name: "Cynthia Robinson",
-    status: "closest",
+    status: "best",
     email: "cynthia_robinson2272@cke3u.app",
     phone: "(123) 456-7890"
   },
@@ -715,7 +715,7 @@ const data = [
   },
   {
     name: "Michaela Allcott",
-    status: "closest",
+    status: "best",
     email: "michaela_allcott3857@qu9ml.business",
     phone: "(098) 765-4321"
   },
@@ -733,7 +733,7 @@ const data = [
   },
   {
     name: "Barry Knight",
-    status: "closest",
+    status: "best",
     email: "barry_knight5994@3wbkp.software",
     phone: "(123) 456-7890"
   },
@@ -751,7 +751,7 @@ const data = [
   },
   {
     name: "Denis Rossi",
-    status: "closest",
+    status: "best",
     email: "denis_rossi5983@voylg.store",
     phone: "(098) 765-4321"
   },
@@ -769,7 +769,7 @@ const data = [
   },
   {
     name: "Russel Thomson",
-    status: "closest",
+    status: "best",
     email: "russel_thomson6524@cdpfn.host",
     phone: "(123) 456-7890"
   },
@@ -787,7 +787,7 @@ const data = [
   },
   {
     name: "Domenic Hamilton",
-    status: "closest",
+    status: "best",
     email: "domenic_hamilton4034@ag5wi.zone",
     phone: "(098) 765-4321"
   },
@@ -805,7 +805,7 @@ const data = [
   },
   {
     name: "Nathan Maxwell",
-    status: "closest",
+    status: "best",
     email: "nathan_maxwell6640@y96lx.audio",
     phone: "(123) 456-7890"
   },
@@ -823,7 +823,7 @@ const data = [
   },
   {
     name: "Emerald Driscoll",
-    status: "closest",
+    status: "best",
     email: "emerald_driscoll8161@y96lx.online",
     phone: "(098) 765-4321"
   },
@@ -841,7 +841,7 @@ const data = [
   },
   {
     name: "Iris Harvey",
-    status: "closest",
+    status: "best",
     email: "iris_harvey4011@iscmr.info",
     phone: "(123) 456-7890"
   },
@@ -859,7 +859,7 @@ const data = [
   },
   {
     name: "Quinn Broomfield",
-    status: "closest",
+    status: "best",
     email: "quinn_broomfield3245@c2nyu.app",
     phone: "(098) 765-4321"
   },
@@ -877,7 +877,7 @@ const data = [
   },
   {
     name: "Domenic Ellison",
-    status: "closest",
+    status: "best",
     email: "domenic_ellison9852@dvqq2.net",
     phone: "(123) 456-7890"
   },
@@ -895,7 +895,7 @@ const data = [
   },
   {
     name: "Phoebe Blackburn",
-    status: "closest",
+    status: "best",
     email: "phoebe_blackburn7051@iscmr.autos",
     phone: "(098) 765-4321"
   },
@@ -913,7 +913,7 @@ const data = [
   },
   {
     name: "Rick King",
-    status: "closest",
+    status: "best",
     email: "rick_king1729@iscmr.audio",
     phone: "(123) 456-7890"
   },
@@ -931,7 +931,7 @@ const data = [
   },
   {
     name: "Christy Forth",
-    status: "closest",
+    status: "best",
     email: "christy_forth9074@voylg.digital",
     phone: "(098) 765-4321"
   },
@@ -949,7 +949,7 @@ const data = [
   },
   {
     name: "Bart Campbell",
-    status: "closest",
+    status: "best",
     email: "bart_campbell6238@jh02o.ca",
     phone: "(123) 456-7890"
   },
@@ -967,7 +967,7 @@ const data = [
   },
   {
     name: "Mark Dillo",
-    status: "closest",
+    status: "best",
     email: "mark_dillon928@yfxpw.biz",
     phone: "(098) 765-4321"
   },
@@ -985,7 +985,7 @@ const data = [
   },
   {
     name: "Oliver Maxwell",
-    status: "closest",
+    status: "best",
     email: "oliver_maxwell6411@voylg.directory",
     phone: "(123) 456-7890"
   },
@@ -1003,7 +1003,7 @@ const data = [
   },
   {
     name: "Karla Spencer",
-    status: "closest",
+    status: "best",
     email: "karla_spencer9242@lhp4j.press",
     phone: "(098) 765-4321"
   },
@@ -1021,7 +1021,7 @@ const data = [
   },
   {
     name: "Hazel Vass",
-    status: "closest",
+    status: "best",
     email: "hazel_vass4578@xqj6f.app",
     phone: "(123) 456-7890"
   },
@@ -1039,7 +1039,7 @@ const data = [
   },
   {
     name: "Lara Cowan",
-    status: "closest",
+    status: "best",
     email: "lara_cowan8864@v1wn5.video",
     phone: "(098) 765-4321"
   },
@@ -1057,7 +1057,7 @@ const data = [
   },
   {
     name: "Kurt Tutton",
-    status: "closest",
+    status: "best",
     email: "kurt_tutton9464@cke3u.works",
     phone: "(123) 456-7890"
   },
@@ -1075,7 +1075,7 @@ const data = [
   },
   {
     name: "Marie Larsen",
-    status: "closest",
+    status: "best",
     email: "marie_larsen7651@6ijur.design",
     phone: "(098) 765-4321"
   },
@@ -1093,7 +1093,7 @@ const data = [
   },
   {
     name: "Tyler Swift",
-    status: "closest",
+    status: "best",
     email: "tyler_swift3197@xqj6f.store",
     phone: "(123) 456-7890"
   },
@@ -1111,7 +1111,7 @@ const data = [
   },
   {
     name: "Erick Vince",
-    status: "closest",
+    status: "best",
     email: "erick_vince8262@dvqq2.video",
     phone: "(098) 765-4321"
   },
@@ -1129,7 +1129,7 @@ const data = [
   },
   {
     name: "Jacob Saunders",
-    status: "closest",
+    status: "best",
     email: "jacob_saunders9261@cdpfn.digital",
     phone: "(123) 456-7890"
   },
@@ -1147,7 +1147,7 @@ const data = [
   },
   {
     name: "Julian Mann",
-    status: "closest",
+    status: "best",
     email: "julian_mann7933@qu9ml.store",
     phone: "(098) 765-4321"
   },
@@ -1165,7 +1165,7 @@ const data = [
   },
   {
     name: "Camila Phillips",
-    status: "closest",
+    status: "best",
     email: "camila_phillips3021@xtwt3.autos",
     phone: "(123) 456-7890"
   },
@@ -1183,7 +1183,7 @@ const data = [
   },
   {
     name: "Rita Cann",
-    status: "closest",
+    status: "best",
     email: "rita_cann2783@kyb7t.app",
     phone: "(098) 765-4321"
   },

@@ -4,3 +4,10 @@
   overflow: scroll;
   width: 100%;
 }
+
+.containerLoadScroll {
+  height: 100%;
+  margin-top: 62px;
+  overflow: hidden;
+  width: 100%;
+}
